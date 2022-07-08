@@ -25,6 +25,12 @@ Person p = new Person();
 		p.setLastName("Amrosy");
 		persons.add(p);
 		
+		Person p = new Person();
+		p.setId("1");
+		p.setAge(21);
+		p.setFirstName("Khaled");
+		p.setLastName("Amrosy");
+		persons.add(p);
 		
 		
 		
